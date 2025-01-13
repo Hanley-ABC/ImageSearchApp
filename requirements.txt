@@ -1,0 +1,6 @@
+Pillow
+numpy
+datetime
+pathlib
+urllib3
+PyAutoGUI
