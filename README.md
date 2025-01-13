@@ -45,6 +45,3 @@ streamlit run imagesearchapp.py
 ## Documentation
 Codelabs - [ImageSearch Documentation](https://codelabs-preview.appspot.com/?file_id=1CqBX4UQU1nVZaIw0REM76YEVNKpbQzJAk41JK48PuT8#0)
 Docs - [ImageSearch Docx](https://docs.google.com/document/d/e/2PACX-1vTR4SRjlXpo6G3uqZe7IwzHlHZN_WNxy2p47njK0OvpwC6SqeJy-YpLmv4AeJSxY8WGZSmEiNMQuBoP/pub)
-
-## Contact Information
-If you have any questions or feedback regarding the project, please feel free to contact us at [Ashish Mhatre](https://www.linkedin.com/in/ashishmhatre927/) and [Ashwin Kadam](https://www.linkedin.com/in/ashwinkadam07/).
